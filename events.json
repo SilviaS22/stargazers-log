@@ -1,0 +1,17 @@
+[
+  {
+    "name": "octocat/Hello-World",
+    "description": "My first repository on GitHub.",
+    "starred": "2024-01-15"
+  },
+  {
+    "name": "github/docs",
+    "description": "The open-source documentation site for GitHub.",
+    "starred": "2024-02-02"
+  },
+  {
+    "name": "octo-org/octo-repo",
+    "description": "A sample repository for experimenting with GitHub workflows.",
+    "starred": "2024-03-21"
+  }
+]
